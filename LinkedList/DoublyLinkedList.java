@@ -1,4 +1,4 @@
-class DNode {
+class Node {
     int data;
     DNode prev, next;
 
@@ -41,3 +41,4 @@ public class DoublyLinkedList {
         d.display();
     }
 }
+
